@@ -9,3 +9,5 @@ I am doing well
 Have a nice day
 
 bye
+
+remote bye
