@@ -1,3 +1,4 @@
 create table tb_cust
 (id int,
-cust_nm varchar(10))
+cust_nm varchar(10),
+createddate datetime)
