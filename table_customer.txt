@@ -11,3 +11,5 @@ Have a nice day
 bye
 
 remote bye
+
+good night
