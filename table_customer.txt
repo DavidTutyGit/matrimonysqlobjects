@@ -1,4 +1,14 @@
 create table tb_cust
 (id int,
+<<<<<<< .mine
 cust_nm varchar(10),
+=======
+cust_nm varchar(10),
+>>>>>>> .theirs
 is_main bit)
+createddate datetime,
+<<<<<<< .mine
+
+=======
+active bit)
+>>>>>>> .theirs
